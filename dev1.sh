@@ -1,6 +1,6 @@
 a=a+b
 
-testing the code
+#testing the code
 
 #substraction
 
@@ -11,4 +11,8 @@ b=c-d
 c=a/b
 
 
-rebase
+
+#rebase
+
+#percentage
+
